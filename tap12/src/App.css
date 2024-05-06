@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(95, 93, 93);
+  border-bottom: none;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+p {
+  color: black;
+}
+.modal-body {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  position: relative;
+  bottom: 20px;
+  border: 1px solid rgb(95, 93, 93);
+  border-top: none;
+}
+.buttonsec {
+  width: 800px;
+  margin-bottom: 20px;
+}
+.buttonfirst {
+  margin-bottom: 40px;
+}
